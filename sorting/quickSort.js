@@ -41,4 +41,4 @@ console.log(arr);
 
 
 // tc-best case,worst case and average case is O(nlogn)
-//  sc is O(n)
+//  sc is O(logn)
